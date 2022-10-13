@@ -1,0 +1,2 @@
+version=4
+https://github.com/nuxt-contrib/create-require/tags .*/v?([\d\.]+).tar.gz
